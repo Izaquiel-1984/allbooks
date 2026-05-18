@@ -73,4 +73,4 @@ E então, adicionar este mesmo token ao header das próximas requisições:
 Authorization: Bearer <ACCESS_TOKEN>
 ```
 
-Autenticar via SSH:
+Autenticar via SSH e criando chaves SSH:
